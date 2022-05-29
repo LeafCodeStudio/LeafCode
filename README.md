@@ -16,7 +16,7 @@
 </br>
 ・ Andrey M. (yAndrey_) 
 </br>
-・ Guilherme S. (Kelb)
+・ Guilherme S. (Kelbsy)
 </br>
 
 ### 📚 | Links
