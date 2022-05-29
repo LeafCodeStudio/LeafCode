@@ -18,9 +18,9 @@
 
 📚 | Links
 
-Venha conhecer nosso ![Discord](https://discord.gg/5MFcjB9NC4), aqui você fica por dentro de todas novidades e updates sobre nossa Loja, basta ![Clicar aqui](https://discord.gg/5MFcjB9NC4).
+Venha conhecer nosso [Discord](https://discord.gg/5MFcjB9NC4), aqui você fica por dentro de todas novidades e updates sobre nossa Loja, basta [Clicar aqui](https://discord.gg/5MFcjB9NC4).
 
-Venha nos seguir em nosso ![Twitter](https://twitter.com/leafcodebr) para ficar por dentro de algumas novidades e conversar com nossa equipe, enviar ideias e etc, basta ![Clicar aqui](https://twitter.com/leafcodebr)
+Venha nos seguir em nosso [Twitter](https://twitter.com/leafcodebr) para ficar por dentro de algumas novidades e conversar com nossa equipe, enviar ideias e etc, basta [Clicar aqui](https://twitter.com/leafcodebr)
 
 
 
