@@ -27,7 +27,7 @@ Venha nos seguir em nosso [Twitter](https://twitter.com/leafcodebr) para ficar p
 
 
 
-### 👩‍💻 | Alterações
+### 🔰 | Alterações
 
 Caso a gente tenha liberado o código de algum plugin, tenha algum erro encontrado nele e você corrigiu, basta solicitar o push aqui pelo github que iremos analisar se está funcionando tudo perfeitamente e se você não fez nada de errado, caso você comece a ajudar bastante com a correção devários erros de nossos plugins open-source você irá ganhar uma tag/emblema especial em nosso [Discord](https://discord.gg/5MFcjB9NC4)! 
 
