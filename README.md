@@ -3,7 +3,7 @@
 ### ✍️ | Olá, tudo bem com você? Esperamos que sim! Essa organização da LeafCode™ aqui no github tem o intuito de ser um local para nós da equipe de desenvolvimento nos organizar melhor com nossos arquivos, aqui também iremos liberar o código para o público todos nossos projetos que forem descontinuados, porém todos ainda ativos e pagos serão privados apenas para equipe.
 
 
-### 🖥️ | Equipe de Desenvolvimento aaa
+### 🖥️ | Equipe de Desenvolvimento
 
 ・ Flávio S. (Fleivius)
 </br>
