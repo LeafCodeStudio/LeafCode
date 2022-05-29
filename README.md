@@ -1,18 +1,22 @@
-💜 | LeafCode 
+# 💜 | LeafCode 
 
-✍️ | Olá, tudo bem com você? Esperamos que sim! Essa organização da LeafCode™ aqui no github tem o intuito de ser um local para nós da equipe de desenvolvimento nos organizar melhor com nossos arquivos, aqui também iremos liberar o código para o público todos nossos projetos que forem descontinuados, porém todos ainda ativos e pagos serão privados apenas para equipe.
+### ✍️ | Olá, tudo bem com você? Esperamos que sim! Essa organização da LeafCode™ aqui no github tem o intuito de ser um local para nós da equipe de desenvolvimento nos organizar melhor com nossos arquivos, aqui também iremos liberar o código para o público todos nossos projetos que forem descontinuados, porém todos ainda ativos e pagos serão privados apenas para equipe.
 
 
-🖥️ | Equipe de Desenvolvimento
+### 🖥️ | Equipe de Desenvolvimento
 
-• Flávio S. (Fleivius)
-• Lucas V. (Vaaaaz)
-• Gabriel M. (GabrielMartins)
+・ Flávio S. (Fleivius)
+</br>
+・ Lucas V. (Vaaaaz)
+</br>
+・ Gabriel M. (GabrielMartins)
 
-💻 | Equipe de Suporte
+### 💻 | Equipe de Suporte
 
-• Andrey M. (yAndrey_) 
-• Kelb
+</br>
+・ Andrey M. (yAndrey_) 
+</br>
+・ Kelb
 
 
 
